@@ -1,5 +1,5 @@
-Inside Main --- Address of a: 000000000061FE1C
-Inside Main --- Before function call, a = 10
-Inside function, address of x: 000000000061FE1C
-Inside function, value of x: 10
-Inside Main --- After function call, a = 20
+1
+2
+3
+4
+5
