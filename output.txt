@@ -1,2 +1,2 @@
-Address of x: 000000000061FE1C
-Value of x: 15
+Before function call, x = 10
+After function call, x = 10
