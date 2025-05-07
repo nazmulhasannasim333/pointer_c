@@ -10,6 +10,13 @@ void fun(int a[], int n)
 
 int main()
 {
-    int arr[5] = {1, 2, 3, 4, 5};
-    fun(arr, 5);
+    int n;
+    scanf("%d", &n);
+    int arr[n];
+    for (int i = 0; i < n; i++)
+    {
+        scanf("%d", &arr[i]);
+    }
+    *(arr + 2) = 45;
+    fun(arr, n);
 }
