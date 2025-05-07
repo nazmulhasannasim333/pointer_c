@@ -8,7 +8,7 @@ char fun(char s[])
 int main()
 {
     char s[10];
-    scanf("%s", &s);
+    scanf("%s", s);
     fun(s);
     return 0;
 }
