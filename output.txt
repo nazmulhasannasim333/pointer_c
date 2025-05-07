@@ -1,0 +1,2 @@
+Address of x: 000000000061FE1C
+Value of x: 15
